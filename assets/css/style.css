@@ -1,9 +1,9 @@
 :root {
-    --primary: #ccd5da;
-    --secondary: #9caaae;
-    --tertiary: #788185;
-    --light-dark: #6f6866;
-    --dark: #2e2f3a;
+    --primary: #ffffff;
+    --secondary: #aeebfc;
+    --tertiary: #3a849b;
+    --light-dark: #589ffc;
+    --dark: #0a0d8f;
     --border-radius: .3rem;
   }
   
@@ -155,7 +155,7 @@
   /* UV-Index */
   .uv-index-green span{
     padding: 1px 5px;
-    background-color: green;
+    background-color: rgb(35, 236, 35);
     border-radius: 5px;
   }
   .uv-index-yellow span{
@@ -165,7 +165,7 @@
   }
   .uv-index-red span{
     padding: 1px 5px;
-    background-color: rgb(226, 59, 59);
+    background-color: rgba(247, 3, 3, 0.76);
     border-radius: 5px;
   }
   
