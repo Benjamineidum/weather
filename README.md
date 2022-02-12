@@ -21,3 +21,7 @@ AS A traveler
   WHEN I click on a city in the search history\
   THEN I am again presented with current and future conditions for that city
 
+![screenshot](https://github.com/Benjamineidum/weather/blob/main/assets/images/screencapture.png)
+
+# Link to Deployed Application
+https://benjamineidum.github.io/weather/
